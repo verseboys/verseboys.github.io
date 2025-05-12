@@ -1,1 +1,11 @@
-/.idea/
+_site/
+*.sw[po]
+*.~vsd
+\#*\#
+*~
+.DS_Store
+Gemfile.lock
+.vscode/
+.jekyll-metadata
+.\$*.png.bkp
+.\$*.png.dtmp
